@@ -9,8 +9,5 @@ git tracks change
 git has a mutable index called stage
 what happend?
 creating a new branch is quick.
-<<<<<<< HEAD
-
-=======
 creating a new branch is quick and simple.
->>>>>>> featurel
+
