@@ -11,4 +11,3 @@ what happend?
 creating a new branch is quick.
 creating a new branch is quick and simple.
 add merge
-do you wanna make a snowman?
